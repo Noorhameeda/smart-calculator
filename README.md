@@ -11,7 +11,7 @@ Includes:
 ---
 
 ## 🚀 Live Demo
-file:///C:/Users/noor%20hameeda/Desktop/index.html
+https://noorhameeda.github.io/smart-calculator/
 ---
 
 ## 📸 Screenshot
