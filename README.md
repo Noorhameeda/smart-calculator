@@ -11,7 +11,7 @@ Includes:
 ---
 
 ## 🚀 Live Demo
-https://noorhameeda.github.io/smart-calculator/
+file:///C:/Users/noor%20hameeda/Desktop/index.html
 ---
 
 ## 📸 Screenshot
@@ -23,8 +23,3 @@ https://noorhameeda.github.io/smart-calculator/
 - HTML5
 - CSS3
 - JavaScript
-
----
-
-## 📜 License
-This project is licensed under the MIT License – feel free to use and modify it.
